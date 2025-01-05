@@ -1,0 +1,12 @@
+@article{REPO094,
+    author = "Cao, Yinxia and Weng, Qihao",
+    doi = "https://doi.org/10.1016/j.rse.2024.114241",
+    issn = "0034-4257",
+    journal = "Remote Sensing of Environment",
+    keywords = "Building height, Super-resolution, Height stratification, Sentinel-1/2, Deep learning, Northern Hemisphere",
+    pages = "114241",
+    title = "{A deep learning-based super-resolution method for building height estimation at 2.5 m spatial resolution in the Northern Hemisphere}",
+    url = "https://www.sciencedirect.com/science/article/pii/S0034425724002591",
+    volume = "310",
+    year = "2024"
+}
